@@ -45,3 +45,8 @@ Project ini mengimplementasikan minimal 3 custom reusable composable functions:
 - **UI Components:** Memanfaatkan `Text` untuk judul & informasi teks, `Button` untuk tombol kontak, `Card` sebagai pembungkus konten, serta `Image` & `Icon` untuk menampilkan foto profil dan ikon penjelas.
 - **Modifiers:** Menggunakan `Modifier` untuk mengatur ukuran (`size`, `fillMaxWidth`, `fillMaxSize`), jarak (`padding`), bentuk (`clip(CircleShape)`), latar belakang (`background`), serta pengguliran layar (`verticalScroll`).
 - **Reusable Composable Functions:** Memisahkan komponen modular ke dalam file terpisah agar kode bersih, mudah dibaca, dan dapat digunakan kembali.
+
+## 9. Screenshoot
+<p align="center">
+  <img src="./bukti/bukti.png" alt="Bukti Screenshot Aplikasi" width="800">
+</p>
